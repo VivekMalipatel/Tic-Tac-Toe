@@ -35,11 +35,13 @@ O for the computer player.
 
 The Tic-Tac-Toe board is a 3x3 grid, with the cells numbered as follows:
 
+```bash
  1 | 2 | 3
 ---+---+---
  4 | 5 | 6
 ---+---+---
  7 | 8 | 9
+```
 
 Players can make a move corresponding to the number of the cell they want to mark.
 
